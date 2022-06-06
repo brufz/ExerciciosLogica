@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Condicional01/src"/>
+	<classpathentry kind="src" path="Condicional02/src"/>
+	<classpathentry kind="src" path="Condicional03/src"/>
+	<classpathentry kind="src" path="Condicional06/src"/>
+	<classpathentry kind="src" path="LacoDoWhile01/src"/>
+	<classpathentry kind="src" path="LacoRepeticaoFor01/src"/>
+	<classpathentry kind="src" path="LacoRepeticaoFor02/src"/>
+	<classpathentry kind="src" path="LacoWhile01/src"/>
+	<classpathentry kind="src" path="LacoWhile02/src"/>
+	<classpathentry kind="src" path="Vetor/src"/>
+	<classpathentry kind="src" path="VetorEMatriz02/src"/>
+	<classpathentry kind="lib" path="org.eclipse.oomph.p2/cache/https___download.eclipse.org_oomph_updates_milestone_latest_compositeArtifacts.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.oomph.p2/cache/https___download.eclipse.org_oomph_updates_milestone_latest_compositeContent.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.oomph.p2/cache/https___download.eclipse.org_technology_epp_packages_2022-03_202203101200_artifacts.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.oomph.p2/cache/https___download.eclipse.org_technology_epp_packages_2022-03_202203101200_content.jar"/>
+	<classpathentry kind="output" path="Condicional01/bin"/>
+</classpath>
